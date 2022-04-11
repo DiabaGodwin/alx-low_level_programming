@@ -1,10 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
-#iclude <stdio.h>
+#include <stdio.h>
 /**
 * main - Enrty point
 *
-* Return: Always 0 (Success/corect)
+* Return: Always 0 (Success/correct)
 */
 int main(void)
 {
