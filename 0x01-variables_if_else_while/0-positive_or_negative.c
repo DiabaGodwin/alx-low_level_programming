@@ -11,7 +11,7 @@ int main(void)
 	n = read() -RAND_MAX /2;
 	if(n > 0)
 	{
-	  printf("is positive")
+	  printf("is positive");
 	}
 	else if(n = 0)
 	{
