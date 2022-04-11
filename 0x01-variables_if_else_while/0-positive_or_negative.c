@@ -10,10 +10,10 @@
 
 int main(void)
 {
-int n;	
+int n;
 srand(time(0));
 n = read() - RAND_MAX / 2;
-  
+
 if (n == 0)
 {
 printf("%i is zero\n", n);
