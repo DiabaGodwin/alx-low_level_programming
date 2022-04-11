@@ -21,7 +21,7 @@ else if (n < 0)
 {
 printf("%i is negative\n", n);
 }
-else if (n > 0)
+else
 {
 printf("%i is positive\n", n);
 }
